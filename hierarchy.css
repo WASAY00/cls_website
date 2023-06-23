@@ -1,0 +1,32 @@
+.picture1{	
+	/*background: url(badar.jpg);
+	background-size: cover;*/
+	width: 100%; 
+	height: 100%;
+}
+
+.picture2{	
+	/*background: url(badar.jpg);
+	background-size: cover;*/
+	width: 100%; 
+	height: 100%;
+}
+.table_div{
+	margin-left:auto;
+	margin-right: auto;
+}
+
+body{
+	color: #27146c;
+
+}
+
+p{
+	color: #6f6f6f
+}
+
+
+.thumbnail{
+	width: 100%;
+	height: 100%
+}
